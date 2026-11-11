@@ -76,5 +76,4 @@ The repository includes screenshots for each module, a network topology PDF, and
 ## Author
 
 **Hiba Gourram**  
-Cybersecurity Student | Ethical Hacking & Network Security# ReconForge-OSINT-Network-Discovery
-A hands-on cybersecurity reconnaissance lab exploring OSINT, DNS footprinting, web technology identification, and virtual network discovery using Kali Linux.
+Cybersecurity Student | Ethical Hacking & Network Security
