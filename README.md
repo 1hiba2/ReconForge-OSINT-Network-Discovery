@@ -12,6 +12,16 @@ ReconForge is a hands-on cybersecurity project focused on footprinting, open-sou
 
 The project documents practical exercises involving several security tools, with a focus on understanding reconnaissance methodologies, analyzing results, and preparing technical security reports.
 
+## Project Highlights
+
+### Network Discovery with Zenmap
+![Zenmap network topology](PM5-Zenmap/08-validated-topology.png)
+
+### OSINT Investigation with Maltego
+![Maltego investigation graph](PM3-Maltego/04-email-discovery-transform.png)
+
+These screenshots document reconnaissance exercises performed in a learning environment. The findings are not evidence of verified vulnerabilities.
+
 ## Tools and Technologies
 
 - Kali Linux
